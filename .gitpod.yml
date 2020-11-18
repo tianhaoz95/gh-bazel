@@ -4,3 +4,7 @@ image:
 tasks:
   - init: 'echo "TODO: Replace with init/build command"'
     command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - BazelBuild.vscode-bazel@0.4.0:6QhA+Qkzg/rYBpKq6blwnA==
